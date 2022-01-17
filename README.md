@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dev-saeddaoud
 - 👀 I’m interested in web development and data visualzation 
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning Svelte
 
 
 <!---
